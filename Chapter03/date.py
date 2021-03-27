@@ -13,4 +13,5 @@ print(now.day, "일")
 print(now.hour, "시")
 print(now.minute, "분")
 print(now.second, "초")
+## 현재시각이 나옴
 
