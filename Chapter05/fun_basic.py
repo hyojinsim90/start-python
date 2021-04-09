@@ -5,3 +5,10 @@ def print_3_times():
     print("안녕하세요")
 
 print_3_times()
+
+'''
+결과 :
+안녕하세요
+안녕하세요
+안녕하세요
+'''
